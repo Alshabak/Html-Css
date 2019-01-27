@@ -1,0 +1,99 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(IMAGES2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* background-color:#848484;*/
+}
+input
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-style: outset;
+    border-color: #0404B4;
+    padding: 3px;
+    margin-left: 170px;
+border: solid 2px #B40431;
+border-style: outset;
+text-align: center;
+font-size: 20px;
+font-family: serif;
+color:black;
+    
+}
+
+.signup
+{
+    color:black ;
+    font-family: cursive;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 170px;
+    
+}
+
+.note a
+{
+    
+    color: #0404B4;
+   text-decoration: none;
+   
+    
+    
+}
+
+.note a:hover
+{
+color: #424242;    
+   text-decoration: none;
+    
+    
+}
+
+
+form{
+    
+    
+    border: solid 5px #120A2A;
+    margin-left: 350px;
+    margin-right: 380px;
+    margin-top: 45px;
+background-color:#F8E6E0;/*#F5D0A9; #E1F5A9;*/
+border-collapse: separate;
+}
+
+Button{
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    color: #0404B4;
+    border: solid 2px black;
+    margin-left: 210px;
+    margin-bottom:70px;
+    margin-top:10px;
+      width:150px;
+    height:50px;
+        border-color:blue;
+        border-style: outset;
+background: #E6E6E6;
+    
+    
+}
+
+
+p{
+    text-align: center;
+    color:red;
+    padding: 3px;
+    margin: 5px;
+    color: black;
+    margin-left: 1px;
+    margin-bottom: 9px;
+    margin-top: 10px;
+    font-family: cursive;
+}

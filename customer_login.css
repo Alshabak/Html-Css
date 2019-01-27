@@ -1,0 +1,127 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+
+body
+{
+background-image: url(customer.jpg);    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+input
+{
+    text-align: center;
+    color:red;
+    padding: 3px;
+    margin: 5px;
+    color: #0404B4;
+    border: solid 3px black;
+   border-color:/*#0B610B#0000FF*/#8A0829;
+        border-style: outset;
+    margin-left: 4px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width:350px;
+    height:50px;
+    font-size: 20px;
+       background-color:  #D8D8D8;
+}
+
+Button{
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    color: black;
+    border: solid 2px;
+    margin-left: 120px;
+    margin-bottom:10px;
+    margin-top:10px;
+      width:150px;
+    height:50px;
+        border-color:#D7DF01;
+        border-style: outset;
+background: #F6CEF5;
+font-size: 20px;
+    
+    
+}
+
+p{
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    color: black;
+    margin-right: 790px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-family: cursive;
+}
+
+.logincustomer a
+{
+    
+    color: #0404B4;
+   text-decoration: none;
+    
+    
+}
+
+.logincustomer a:hover
+{
+color: #424242;    
+   text-decoration: none;
+    
+    
+}
+
+.login
+{
+   
+    text-align: center;
+    padding: 3px;
+    margin: 5px;
+    color: white;
+    margin-right: 790px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: monospace;
+    font-size: 30px;
+    
+    
+}
+.logo  img{
+    
+    width: 130px;
+    height:130px;
+    float: left;
+    margin-top: 0px;
+       
+}
+
+
+
+
+
+
+
+
+form
+{
+margin-left: 90px;
+margin-right:50px;
+margin-top: 120px;
+padding: 5px;
+margin-bottom: 20px;
+}
+
+
+
+
+
